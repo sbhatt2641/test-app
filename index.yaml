@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-app:
+  - apiVersion: v2
+    appVersion: 0.0.0
+    created: "2023-04-20T13:10:46.0163179-05:00"
+    description: A helm chart for demo deployment
+    digest: 9c54aab167c7080f70385013786ea545953ecaabf46ee2068f666b3b27a63153
+    name: helm-app
+    type: application
+    urls:
+    - https://github.com/sbhatt2641/helm-charts.git/charts/helm-app-0.0.0.tgz
+    version: 0.0.0
+generated: "2023-04-20T13:10:46.014318-05:00"
